@@ -216,7 +216,7 @@ body {
     border: 0 none;
   }
   
-  @media only screen and (max-width:980px){
+  @media screen and (max-width:980px){
     header{
         width: 100%;
         position: fixed;
@@ -236,9 +236,8 @@ body {
         width: 100%;
    
     }
-    /* padding-bottom: 500px; */
+   
 }
-
 
 
 @media screen and (max-width:640px){
@@ -254,7 +253,6 @@ body {
    }
 
     #main-container{
-       /* margin-left: 100px; */
         width: 100%;
         
         margin-top: 43px;
@@ -273,10 +271,7 @@ body {
         padding-left: 120px;
     }
 
-    /* .main-section {
-    padding-left: 33.3%;
-    padding-top: 33.3%; */
-}
-}
 
 }
+
+
